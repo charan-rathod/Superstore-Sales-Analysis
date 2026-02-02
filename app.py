@@ -1,4 +1,7 @@
 import streamlit as st
+st.write("App is starting...")
+
+import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
